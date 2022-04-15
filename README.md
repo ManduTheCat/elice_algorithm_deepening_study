@@ -9,7 +9,7 @@
 | 1977 |  [완전제곱수](https://www.acmicpc.net/problem/1977) |
 | 10828 |  [스택](https://www.acmicpc.net/problem/10828) |
 | 10866 |  [덱](https://www.acmicpc.net/problem/10866) |
-| 1110 |  [더하기 사이클](https://www.acmicpc.net/problem1110/) |
+| 1110 |  [더하기 사이클](https://www.acmicpc.net/problem/1110/) |
 | 10870 |  [피보나치 수 5](https://www.acmicpc.net/problem/10870) |
 | 9012 |  [괄호](https://www.acmicpc.net/problem/9012) |
 | 1158 |  [요세푸스 문제](https://www.acmicpc.net/problem/1158) |
