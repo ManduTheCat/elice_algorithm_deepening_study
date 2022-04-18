@@ -13,11 +13,10 @@ def main():
 				stack.append(bracket)
 			elif stack[-1] == bracket:
 				stack.append(bracket)
-		#무조건 서로 다른게 아니라  ( 로 시작해서) 로 끝나야한다. 즉 시작하는 브라캣은 정해져있다.
+			#무조건 서로 다른게 아니라  ( 로 시작해서) 로 끝나야한다. 즉 시작하는 브라캣은 정해져있다.
 			elif stack[-1] == "(" and bracket == ")":
 				stack.pop()
 		if not stack:
-			# print(bracket_list)
 			print("YES")
 		elif stack:
 			print("NO")
