@@ -7,4 +7,4 @@ while True:
     newNumber = (newNumber%10)*10+(newNumber//10+newNumber%10)%10
     if originalNumber == newNumber:
         break
-print(count)
+print(count) 
