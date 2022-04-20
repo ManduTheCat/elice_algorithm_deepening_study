@@ -1,3 +1,4 @@
+#바텀업 방식
 def main():
 	n = int(input())
 	memo = [0,1]
