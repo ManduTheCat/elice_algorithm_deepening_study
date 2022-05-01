@@ -9,3 +9,7 @@
 | 10825 | [국영수](https://www.acmicpc.net/problem/10825) |
 | 17413 | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |
 | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) |
+| 11399 | [ATM](https://www.acmicpc.net/problem/11399) |
+| 17478 | [완전이진트리](https://www.acmicpc.net/problem/9934) |
+| 17478 | [절댓값 힙](https://www.acmicpc.net/problem/11286) |
+
