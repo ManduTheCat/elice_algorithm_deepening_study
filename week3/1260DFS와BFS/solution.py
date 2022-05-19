@@ -1,6 +1,6 @@
 def main():
     Node, Branch, Root = map(int, input().split())
-    tree = [[] for _ in range(Node + 1)]
+    tree = [[] for _ in range(Node+1)]
 
     for _ in range(Branch):
         a, b = map(int, input().split())
@@ -15,15 +15,13 @@ def main():
 
     def DFS(root):
         visited_DFS.append(root)
-
         for node in tree[root]:
             if node not in visited_DFS:
                 DFS(node)
 
     def BFS(root):
         q = [root]
-
-        while (q):
+        while(q):
             root = q.pop(0)
             visited_BFS.append(root)
             for node in tree[root]:
@@ -34,7 +32,6 @@ def main():
     BFS(Root)
     print((' ').join(map(str, visited_DFS)))
     print((' ').join(map(str, visited_BFS)))
-
 
 if __name__=='__main__':
     main()
